@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: E
+  m_EditorClassIdentifier: Assembly-CSharp::SkillData
+  skillName: Eskill
+  icon: {fileID: -319757330, guid: e387fb8b09fa08540a3f0b52b657c421, type: 3}
+  prefab: {fileID: 7152021923290365442, guid: 202d09e76f27b7844830c06bd401ced0, type: 3}
+  cooldown: 6
+  damage: 3
+  speed: 0
+  rotationOffset: 90
+  spawnOffset: 1

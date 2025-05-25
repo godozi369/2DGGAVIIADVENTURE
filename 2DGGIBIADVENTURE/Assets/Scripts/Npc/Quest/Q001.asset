@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79385f243f60d8a49be7c1d336199bc8, type: 3}
+  m_Name: Q001
+  m_EditorClassIdentifier: 
+  questType: 2
+  questID: Q001
+  questTitle: "\uC624\uC9C0\uC655\uAD6D\uC744 \uAD6C\uD574\uC918!"
+  description: "\uC624\uC9C0 \uC655\uAD6D\uC774 \uC624\uD06C\uB4E4\uC5D0\uAC8C \uD568\uB77D\uB2F9\uD574
+    \uB3C4\uB9DD\uCCD0\uB098\uC628 \uC624\uC9C0\uB294 \uACFC\uAC70 \uC624\uC9C0 \uC655\uAD6D
+    \uAC74\uAD6D\uC5D0 \uD070 \uAE30\uC5EC\uB97C \uD55C \uAE4C\uBE44\uB97C \uCC3E\uC544\uC640
+    \uB3C4\uC6C0\uC744 \uAD6C\uD558\uB294 \uB0B4\uC6A9 "
+  requiredCount: 0
+  targetID: 
+  isCompleted: 0
+  nextQuest: {fileID: 11400000, guid: 9ba9d850b14c47f4896d3f303f5cd3c9, type: 2}

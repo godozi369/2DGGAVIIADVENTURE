@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: W
+  m_EditorClassIdentifier: Assembly-CSharp::SkillData
+  skillName: Wskill
+  icon: {fileID: -90222924, guid: e6842efcf0452814a82da6f218370925, type: 3}
+  prefab: {fileID: 8711288915050434161, guid: 0324c864380e35144a9df27827fdec81, type: 3}
+  cooldown: 0
+  damage: 3
+  speed: 0
+  rotationOffset: -90
+  spawnOffset: 0.5

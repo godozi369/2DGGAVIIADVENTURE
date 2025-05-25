@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79385f243f60d8a49be7c1d336199bc8, type: 3}
+  m_Name: Q004
+  m_EditorClassIdentifier: 
+  questType: 0
+  questID: Q004
+  questTitle: "\uC624\uD06C \uAD70\uB2E8 \uC12C\uBA78"
+  description: "\uC655\uAD6D\uC5D0\uC11C \uBC00\uB824\uC624\uB294 \uC624\uD06C\uB4E4\uC744
+    \uC12C\uBA78\uD558\uB77C!!!"
+  requiredCount: 50
+  targetID: Orc
+  isCompleted: 0

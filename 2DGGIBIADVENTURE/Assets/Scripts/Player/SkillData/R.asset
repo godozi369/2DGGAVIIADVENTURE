@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: R
+  m_EditorClassIdentifier: Assembly-CSharp::SkillData
+  skillName: Rskill
+  icon: {fileID: 1348147669, guid: b3f769b7e585b17469007f7da4856e6c, type: 3}
+  prefab: {fileID: 6475039631129965916, guid: 750540b5b040d5f4f8e1573a29c8a06b, type: 3}
+  cooldown: 30
+  damage: 3
+  speed: 0
+  rotationOffset: 90
+  spawnOffset: 0.5
